@@ -21,4 +21,4 @@ if(isset($_POST['submit']))  : ?>
 <iframe src="<?php echo $idtest; ?>" style="border:none;"></iframe>
 
 
- <iframe src="<?php $_POST["url"]; ?>" style="border:none;"></iframe>
+ <iframe src="<?php $_POST["url"]; ?>" style="border:none;"></iframe>cdscsdcssc
